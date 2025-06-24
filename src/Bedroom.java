@@ -43,7 +43,7 @@ class Lamp {
     }
 
     public void turnOn() {
-        System.out.print("Lamp -> Turning on");
+        System.out.print("Lamp -> Turning ONs");
     }
 
     public String getStyle() {
